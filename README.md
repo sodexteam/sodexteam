@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **Spring Boot and Blasor (C#)**
+- 🌱 I’m currently learning **Spring Boot and Blazor (C#)**
 
 - 👯 I’m looking to collaborate on **Java Projects or C# Projects**
 
